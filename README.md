@@ -33,6 +33,17 @@ SmartImageProcessing/
 └── output_images/
 ```
 
+## 📸 Screenshots
+
+### 1. Main Interface
+![Main Interface](screenshots/Main%20interface.png)
+
+### 2. Image Processing
+![Image Processing](screenshots/Image%20processing.png)
+
+### 3. Background Extraction
+![Background Extraction](screenshots/Background%20extraction.png)
+
 ## ⚙️ Installation and Setup
 
 ### 1. Clone the repository
